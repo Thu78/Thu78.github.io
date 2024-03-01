@@ -1,1 +1,21 @@
-Hello World
+body {
+    font-family: Arial, sans-serif;
+}
+
+.section {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.external-link {
+    color: blue;
+}
+
+.external-link:hover {
+    color: red;
+}
+
+/* Add more styles as needed */
+
+
